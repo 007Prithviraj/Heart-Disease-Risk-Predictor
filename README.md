@@ -14,8 +14,9 @@ A machine learning-based web app developed to predict the risk of heart disease 
 
 ## Project Preview
 
-> Add your own screenshot here  
-> Upload an image to `mini_proj/assets/` and use this:
+![App Screenshot](mini_proj/assets/screenshot.png.jpeg)
+
+
 
 
 
